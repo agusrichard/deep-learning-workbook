@@ -1,2 +1,2 @@
-# deep-learning
- Learning notes for Deep Learning
+# Deep Learning Workbook
+Learning notes, practices and experiments of learning Deep Learning
